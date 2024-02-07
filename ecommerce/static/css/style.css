@@ -1,0 +1,28 @@
+body
+{
+background-color:pink;
+font-family: 'Pacifico', cursive;
+}
+.navbar-light .navbar-nav .nav-link  {
+    color: black;
+}
+
+.footer
+{
+height:45px;
+width:100%;
+background-color:lightgray;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+}
+.form-control
+{
+width:50%;}
+
+.table-bordered
+{
+border-color:red;
+border-width:3px;
+}
